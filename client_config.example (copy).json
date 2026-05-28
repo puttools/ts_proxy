@@ -1,0 +1,10 @@
+{
+  "server": "127.0.0.1:9000",
+  "local": "127.0.0.1:8080",
+  "ca_file": "",
+  "skip_verify": true,
+  "heartbeat_sec": 30,
+  "log_level": "info",
+  "password": "s3cr3t"
+}
+

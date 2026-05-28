@@ -1,0 +1,10 @@
+{
+  "tunnel_port": "9000",
+  "http_port": "9001",
+  "cert_file": "",
+  "key_file": "",
+  "timeout_sec": 60,
+  "log_level": "info",
+  "password": "s3cr3t"
+}
+
